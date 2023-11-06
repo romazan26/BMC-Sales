@@ -11,7 +11,7 @@ import SwiftUI
 struct BMC_SalesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LaunchScreenView()
         }
     }
 }
